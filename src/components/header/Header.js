@@ -9,7 +9,7 @@ const Header = () => {
             </div>
             <div className="w-3/5 md:w-1/4 h-full flex justify-around items-center">
                 <a href="#" className="flex text-xs md:text-sm mr-2 font-body text-[#545E75]">Home</a>
-                <a href="#" className="flex text-xs md:text-sm mr-2 font-body text-[#545E75]">About me</a>
+                <a href="#about-me" className="flex text-xs md:text-sm mr-2 font-body text-[#545E75]">About me</a>
                 <a href="#" className="flex text-xs md:text-sm mr-2 font-body text-[#545E75]">Skills</a>
                 <a href="#" className="flex text-xs md:text-sm font-body text-[#545E75]">Projects</a>
             </div>
