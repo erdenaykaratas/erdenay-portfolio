@@ -1,7 +1,5 @@
 import React from "react"
-import hand1 from "./aboutme1.png"
 import hand2 from "./about-me-img.png"
-import coffee from "./coffee.png"
 
 const AboutMe = () => {
     return (
