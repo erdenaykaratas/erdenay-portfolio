@@ -4,7 +4,7 @@ import Main from "./components/mainarea/Main"
 
 function App() {
   return (
-    <div className="bg-[#f8f7f3]">
+    <div className="bg-[#EEE5D3]">
       <Header />
       <Main />
       <AboutMe />
