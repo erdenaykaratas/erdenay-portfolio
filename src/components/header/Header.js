@@ -3,7 +3,7 @@ import logo from "./E-logo.png"
 
 const Header = () => {
     return (
-        <div className="w-full h-20 flex justify-around items-center bg-[#f8f7f3]">
+        <div className="w-full h-20 flex justify-around items-center bg-[#EEE5D3]">
             <div>
                 <img src={logo} alt="Logo" className="w-16" />
             </div>

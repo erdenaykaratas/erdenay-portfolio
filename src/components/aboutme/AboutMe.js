@@ -3,7 +3,7 @@ import hand2 from "./about-me-img.png"
 
 const AboutMe = () => {
     return (
-        <div className="w-full h-screen overflow-hidden relative bg-[#545454]">
+        <div className="w-full h-screen overflow-hidden relative bg-[#EEE5D3">
             <div className="w-2/3 m-auto font-body text-2xl mb-4">
                 <h1 className="text-[#545E75]">Who am i ?</h1>
             </div>

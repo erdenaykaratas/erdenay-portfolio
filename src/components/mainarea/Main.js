@@ -4,8 +4,8 @@ import hello from "./Hi.png";
 
 const Main = () => {
     return (
-        <div className="w-full h-screen overflow-hidden bg-[#f8f7f3]">
-        <div className="w-full h-96 md:h-screen overflow-hidden bg-[#f8f7f3]">
+        <div className="w-full h-screen overflow-hidden bg-[#EEE5D3]">
+        <div className="w-full h-96 md:h-screen overflow-hidden bg-[#EEE5D3]">
             <img src={helloHand} alt="Greetings hand" className="w-5/6 md:w-1/2 absolute right-0 mt-32" />
             <img src={hello} alt="Macbook" className="w-4/5 m-auto mt-20 z-10 md:mt-6" />
         </div>
